@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Skills>
+	<Skill_1>Базовая теорияах</Skill_1
+	<Skill_2>Что_такое_клиент-серверная_архитектура</Skill_2>
+	<Skill_3>Методы_запросов_к_серверу</Skill_3>
+	<Skill_4>Ответы_сервера</Skill_4>
+	<Skill_5>Структуры_запросов_и_ответов</Skill_5>
+        <Skill_6>Что_такое_JSON,_XML._Их структура</Skill_6>
+        <Skill_7>Тестирование API</Skill_6>
+	<Skill_8>Снятие_и_чтение_логов</Skill_8>
+	<Skill_9>Postman,Fidler</Skill_9>
+	<Skill_10>VPN</Skill_10>
+	<Skill_11>Dev_Tools_веб-браузеров</Skill_11>
+	<Skill_12>Мобильное_тестирование</Skill_12>
+	<Skill_13>Особенности_iOS,_Android,_гайдлайны</Skill_13>
+
+</Skills>
