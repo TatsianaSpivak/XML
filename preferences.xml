@@ -1,10 +1,10 @@
  <? xml version="1.0" encoding="utf-8"?>
 
     <preferences>
-      <Favorite movie>I'm a legend</Favorite movie>
-      <Favorite TV series>Big little Lies</Favorite TV series>
-      <Favorite food>Sushi</Favorite food>
-      <Favorite time of the year>Spring</Favorite time of the year>
-      <The country I want to visit>Switzerland</The country I wont to visit>
+      <Favorite_movie>I'm_a_legend</Favorite_movie>
+      <Favorite_TV_series>Big_little_Lies</Favorite_TV_series>
+      <Favorite_food>Sushi</Favorite_food>
+      <Favorite_time_of_the_year>Spring</Favorite_time_of_the_year>
+      <The_country_I_want_to_visit>Switzerland</The_country_I_want_to_visit>
 
  </preferences>
