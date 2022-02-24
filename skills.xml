@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Skills>
-	<Skill_1>Базовая теория</Skill_1>
-	<Skill_2>Что_такое_клиент-серверная_архитектура</Skill_2>
-	<Skill_3>Методы_запросов_к_серверу</Skill_3>
-	<Skill_4>Ответы_сервера</Skill_4>
-	<Skill_5>Структуры_запросов_и_ответов</Skill_5>
-        <Skill_6>Что_такое_JSON,_XML._Их структура</Skill_6>
-        <Skill_7>Тестирование API</Skill_6>
-	<Skill_8>Снятие_и_чтение_логов</Skill_8>
-	<Skill_9>Postman,Fidler</Skill_9>
-	<Skill_10>VPN</Skill_10>
-	<Skill_11>Dev_Tools_веб-браузеров</Skill_11>
-	<Skill_12>Мобильное_тестирование</Skill_12>
-	<Skill_13>Особенности_iOS,_Android,_гайдлайны</Skill_13>
+	<Skill 1>Базовая теория</Skill 1>
+	<Skill 2>Что такое клиент-серверная архитектура</Skill 2>
+	<Skill 3>Методы запросов к серверу</Skill 3>
+	<Skill 4>Ответы сервера</Skill 4>
+	<Skill 5>Структуры запросов и ответов</Skill 5>
+        <Skill 6>Что такое JSON, XML. Их структура</Skill 6>
+        <Skill 7>Тестирование API</Skill_6>
+	<Skill 8>Снятие и чтение логов</Skill 8>
+	<Skill 9>Postman,Fidler</Skill 9>
+	<Skill 10>VPN</Skill 10>
+	<Skill 11>Dev Tools веб-браузеров</Skill 11>
+	<Skill 12>Мобильное тестирование</Skill 12>
+	<Skill 13>Особенности iOS, Android, гайдлайны</Skill 13>
 
 </Skills>
