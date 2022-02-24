@@ -3,9 +3,9 @@
  <?xml version="1.0" encoding="utf-8"?>
 
  <root>
-         <Name>Tatsiana</Name
-         <Surname>Spivak</Surname
-         <Age>38</Age
+	 <Name>Tatsiana</Name>
+	 <Surname>Spivak</Surname>
+	 <Age>38</Age>
 	 <Number_of_pets>1</Number_of_pets>
 	 <Salary>600$</Salary>
 
